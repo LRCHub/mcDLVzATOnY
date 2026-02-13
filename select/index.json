@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Soñar (Breaker)",
+  "base_artist": "NMIXX",
+  "createdAt": "2026-02-13T19:00:50.185152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soñar (Breaker)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/01_Soñar_(Breaker)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soñar (Breaker)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/02_Soñar_(Breaker)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soñar (Breaker)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/03_Soñar_(Breaker)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NMIXX “Soñar (Breaker)” (Official Audio)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/04_NMIXX_“Soñar_(Breaker)”_(Official_Audio)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soñar (Breaker)",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/05_Soñar_(Breaker)_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soñar (Breaker)",
+      "artist": "Song, NMIXX",
+      "has_synced": true,
+      "path": "select/06_Soñar_(Breaker)_Song,_NMIXX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soñar (Breaker)",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Soñar_(Breaker)_NMIXX.txt"
+    }
+  ]
+}
